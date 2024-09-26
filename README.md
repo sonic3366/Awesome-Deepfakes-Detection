@@ -114,6 +114,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * **Deepware**: [Website](https://deepware.ai/)
 * **Baidu Security**: [Website](http://weishi.baidu.com/product/deepfake)
 * **DeepReal**: [Website](https://deepfakes.real-ai.cn/)
+* * **AI Image Detector**: [Website](https://www.swapfaces.ai/ai-image-detector-online)
 
 
 
